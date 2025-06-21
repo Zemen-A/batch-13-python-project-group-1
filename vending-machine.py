@@ -10,3 +10,5 @@
 # Skills practiced: loops, input(), conditionals, lists/dictionaries, sum(), print formatting
 
 print("This is zemen vending machine application")
+
+print("This is a line added on Github"
